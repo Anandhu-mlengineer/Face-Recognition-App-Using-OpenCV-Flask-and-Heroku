@@ -2,7 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+<<<<<<< HEAD
 Research/data/data_images_100_100.pickle
+=======
+>>>>>>> a3e59aff1fd1183ca48a2f3f2af6619a0f49a43a
 
 # C extensions
 *.so
@@ -76,7 +79,12 @@ docs/_build/
 .pybuilder/
 target/
 
+<<<<<<< HEAD
 
+=======
+# Jupyter Notebook
+.ipynb_checkpoints
+>>>>>>> a3e59aff1fd1183ca48a2f3f2af6619a0f49a43a
 
 # IPython
 profile_default/
